@@ -1,10 +1,10 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import { Layout } from './components'
-import NotFoundPage from './pages/NotFoundPage'
-import OverviewPage from './pages/OverviewPage'
 import FlowBuilderPage from './pages/FlowBuilderPage'
 import NewServicePage from './pages/NewServicePage'
+import NotFoundPage from './pages/NotFoundPage'
+import OverviewPage from './pages/OverviewPage'
 import { ROUTES } from './resources/routes-constants'
 import './styles/main.scss'
 
